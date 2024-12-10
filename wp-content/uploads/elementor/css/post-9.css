@@ -1,0 +1,2061 @@
+.elementor-widget-container .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-container {
+    background-color: var( --e-global-color-primary);
+}
+
+.elementor-widget-container .premium-global-cursor- {
+        {
+        ID
+    }
+}
+
+    {
+    color: var( --e-global-color-primary);
+    fill: var( --e-global-color-primary);
+}
+
+.elementor-widget-container.premium-cursor-ftext .premium-global-cursor- {
+        {
+        ID
+    }
+}
+
+.premium-cursor-follow-text {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight);
+}
+
+.elementor-widget-container .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-text {
+    color: var( --e-global-color-secondary);
+}
+
+.elementor-widget-container .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-icon {
+    color: var( --e-global-color-secondary);
+    fill: var( --e-global-color-secondary);
+}
+
+.elementor-9 .elementor-element.elementor-element-a20b8e4 {
+    --display: flex;
+    --min-height: 100vh;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-a20b8e4:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-a20b8e4>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/12/Piglet-1.png");
+    background-position: center center;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-a20b8e4,
+.elementor-9 .elementor-element.elementor-element-a20b8e4::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-a0daa23 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-a0daa23.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-9 .elementor-element.elementor-element-5002cdf {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-5002cdf.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-widget-image .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-container {
+    background-color: var( --e-global-color-primary);
+}
+
+.elementor-widget-image .premium-global-cursor- {
+        {
+        ID
+    }
+}
+
+    {
+    color: var( --e-global-color-primary);
+    fill: var( --e-global-color-primary);
+}
+
+.elementor-widget-image.premium-cursor-ftext .premium-global-cursor- {
+        {
+        ID
+    }
+}
+
+.premium-cursor-follow-text {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight);
+}
+
+.elementor-widget-image .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-text {
+    color: var( --e-global-color-secondary);
+}
+
+.elementor-widget-image .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-icon {
+    color: var( --e-global-color-secondary);
+    fill: var( --e-global-color-secondary);
+}
+
+.elementor-widget-image .widget-image-caption {
+    color: var( --e-global-color-text);
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight);
+}
+
+.elementor-9 .elementor-element.elementor-element-433b61d {
+    text-align: left;
+}
+
+.elementor-9 .elementor-element.elementor-element-433b61d img {
+    width: 16%;
+}
+
+.elementor-9 .elementor-element.elementor-element-9c24831 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: flex-end;
+    --align-items: center;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.5;
+}
+
+.elementor-9 .elementor-element.elementor-element-9c24831::before,
+.elementor-9 .elementor-element.elementor-element-9c24831>.elementor-background-video-container::before,
+.elementor-9 .elementor-element.elementor-element-9c24831>.e-con-inner>.elementor-background-video-container::before,
+.elementor-9 .elementor-element.elementor-element-9c24831>.elementor-background-slideshow::before,
+.elementor-9 .elementor-element.elementor-element-9c24831>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-9 .elementor-element.elementor-element-9c24831>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    --background-overlay: '';
+}
+
+.elementor-9 .elementor-element.elementor-element-9c24831,
+.elementor-9 .elementor-element.elementor-element-9c24831::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-9c24831.e-con {
+    --align-self: center;
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-widget-nav-menu .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-container {
+    background-color: var( --e-global-color-primary);
+}
+
+.elementor-widget-nav-menu .premium-global-cursor- {
+        {
+        ID
+    }
+}
+
+    {
+    color: var( --e-global-color-primary);
+    fill: var( --e-global-color-primary);
+}
+
+.elementor-widget-nav-menu.premium-cursor-ftext .premium-global-cursor- {
+        {
+        ID
+    }
+}
+
+.premium-cursor-follow-text {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight);
+}
+
+.elementor-widget-nav-menu .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-text {
+    color: var( --e-global-color-secondary);
+}
+
+.elementor-widget-nav-menu .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-icon {
+    color: var( --e-global-color-secondary);
+    fill: var( --e-global-color-secondary);
+}
+
+.elementor-widget-nav-menu .elementor-nav-menu .elementor-item {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight);
+}
+
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item {
+    color: var( --e-global-color-text);
+    fill: var( --e-global-color-text);
+}
+
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover,
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:focus {
+    color: var( --e-global-color-accent);
+    fill: var( --e-global-color-accent);
+}
+
+.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after {
+    background-color: var( --e-global-color-accent);
+}
+
+.elementor-widget-nav-menu .e--pointer-framed .elementor-item:before,
+.elementor-widget-nav-menu .e--pointer-framed .elementor-item:after {
+    border-color: var( --e-global-color-accent);
+}
+
+.elementor-widget-nav-menu {
+    --e-nav-menu-divider-color: var( --e-global-color-text);
+}
+
+.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item,
+.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-sub-item {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-accent-font-weight);
+}
+
+.elementor-9 .elementor-element.elementor-element-da430a5>.elementor-widget-container {
+    background-color: #000000;
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/11/4a326853d45c48801ecacf86b92c2ac9-scaled.jpeg");
+    padding: 12px 20px 12px 20px;
+}
+
+.elementor-9 .elementor-element.elementor-element-da430a5 .elementor-menu-toggle {
+    margin-left: auto;
+    background-color: #1C1C1C;
+}
+
+.elementor-9 .elementor-element.elementor-element-da430a5 .elementor-nav-menu .elementor-item {
+    font-family: "Londrina Solid", Sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0.7px;
+}
+
+.elementor-9 .elementor-element.elementor-element-da430a5 .elementor-nav-menu--main .elementor-item {
+    color: #1C1C1C;
+    fill: #1C1C1C;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.elementor-9 .elementor-element.elementor-element-da430a5 .elementor-nav-menu--main .elementor-item:hover,
+.elementor-9 .elementor-element.elementor-element-da430a5 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-9 .elementor-element.elementor-element-da430a5 .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-9 .elementor-element.elementor-element-da430a5 .elementor-nav-menu--main .elementor-item:focus {
+    color: #1C1C1CC4;
+    fill: #1C1C1CC4;
+}
+
+.elementor-9 .elementor-element.elementor-element-da430a5 .elementor-nav-menu--main .elementor-item.elementor-item-active {
+    color: #A40C1D;
+}
+
+.elementor-9 .elementor-element.elementor-element-da430a5 div.elementor-menu-toggle {
+    color: var( --e-global-color-accent);
+}
+
+.elementor-9 .elementor-element.elementor-element-da430a5 div.elementor-menu-toggle svg {
+    fill: var( --e-global-color-accent);
+}
+
+.elementor-9 .elementor-element.elementor-element-6ba2a42 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-378f2a6 {
+    --display: flex;
+    --min-height: 16vh;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-378f2a6:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-378f2a6>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/12/Chain-4.png");
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-378f2a6,
+.elementor-9 .elementor-element.elementor-element-378f2a6::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-4be36e3 {
+    --display: flex;
+    --min-height: 100vh;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --padding-top: 0160px;
+    --padding-bottom: 20px;
+    --padding-left: 80px;
+    --padding-right: 80px;
+}
+
+.elementor-9 .elementor-element.elementor-element-4be36e3.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-9 .elementor-element.elementor-element-c7e72f1 {
+    --display: flex;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 12px 12px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 12px;
+    --border-bottom-width: 12px;
+    --border-left-width: 0px;
+    border-color: var( --e-global-color-accent);
+    --border-color: var( --e-global-color-accent);
+    box-shadow: 8px 10px 0px 0px #000000;
+    --z-index: 2;
+}
+
+.elementor-9 .elementor-element.elementor-element-c7e72f1:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-c7e72f1>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/11/BG.png");
+    background-position: center center;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-c7e72f1,
+.elementor-9 .elementor-element.elementor-element-c7e72f1::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-3d3ecc8>.elementor-widget-container {
+    margin: -120px 0px 0px 0px;
+}
+
+.elementor-9 .elementor-element.elementor-element-3d3ecc8.elementor-element {
+    --align-self: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-3d3ecc8 {
+    text-align: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-3d3ecc8 img {
+    width: 56%;
+    max-width: 100%;
+}
+
+.elementor-widget-heading .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-container {
+    background-color: var( --e-global-color-primary);
+}
+
+.elementor-widget-heading .premium-global-cursor- {
+        {
+        ID
+    }
+}
+
+    {
+    color: var( --e-global-color-primary);
+    fill: var( --e-global-color-primary);
+}
+
+.elementor-widget-heading.premium-cursor-ftext .premium-global-cursor- {
+        {
+        ID
+    }
+}
+
+.premium-cursor-follow-text {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight);
+}
+
+.elementor-widget-heading .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-text {
+    color: var( --e-global-color-secondary);
+}
+
+.elementor-widget-heading .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-icon {
+    color: var( --e-global-color-secondary);
+    fill: var( --e-global-color-secondary);
+}
+
+.elementor-widget-heading .elementor-heading-title {
+    color: var( --e-global-color-primary);
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight);
+}
+
+.elementor-9 .elementor-element.elementor-element-f34dc6e {
+    width: var( --container-widget-width, 72%);
+    max-width: 72%;
+    --container-widget-width: 72%;
+    --container-widget-flex-grow: 0;
+    text-align: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-f34dc6e.elementor-element {
+    --align-self: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-f34dc6e .elementor-heading-title {
+    color: var( --e-global-color-text);
+    font-family: "Londrina Solid", Sans-serif;
+    font-size: 80px;
+    font-weight: 600;
+    line-height: 92px;
+}
+
+.elementor-9 .elementor-element.elementor-element-c50f6ba img {
+    width: 12%;
+}
+
+.elementor-widget-text-editor .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-container {
+    background-color: var( --e-global-color-primary);
+}
+
+.elementor-widget-text-editor .premium-global-cursor- {
+        {
+        ID
+    }
+}
+
+    {
+    color: var( --e-global-color-primary);
+    fill: var( --e-global-color-primary);
+}
+
+.elementor-widget-text-editor.premium-cursor-ftext .premium-global-cursor- {
+        {
+        ID
+    }
+}
+
+.premium-cursor-follow-text {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight);
+}
+
+.elementor-widget-text-editor .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-text {
+    color: var( --e-global-color-secondary);
+}
+
+.elementor-widget-text-editor .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-icon {
+    color: var( --e-global-color-secondary);
+    fill: var( --e-global-color-secondary);
+}
+
+.elementor-widget-text-editor {
+    color: var( --e-global-color-text);
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight);
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
+    background-color: var( --e-global-color-primary);
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap,
+.elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {
+    color: var( --e-global-color-primary);
+    border-color: var( --e-global-color-primary);
+}
+
+.elementor-9 .elementor-element.elementor-element-1dc5c03 {
+    width: var( --container-widget-width, 80%);
+    max-width: 80%;
+    --container-widget-width: 80%;
+    --container-widget-flex-grow: 0;
+    text-align: center;
+    font-family: "Unbounded", Sans-serif;
+    font-weight: 300;
+}
+
+.elementor-9 .elementor-element.elementor-element-1dc5c03.elementor-element {
+    --align-self: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-0349591 img {
+    width: 32%;
+}
+
+.elementor-9 .elementor-element.elementor-element-67095a1 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-01e3ab2 {
+    width: var( --container-widget-width, 60%);
+    max-width: 60%;
+    --container-widget-width: 60%;
+    --container-widget-flex-grow: 0;
+    text-align: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-01e3ab2.elementor-element {
+    --align-self: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-01e3ab2 .elementor-heading-title {
+    color: var( --e-global-color-secondary);
+    font-family: "Londrina Solid", Sans-serif;
+    font-size: 100px;
+    font-weight: 600;
+    line-height: 120px;
+}
+
+.elementor-9 .elementor-element.elementor-element-a1ae636 {
+    text-align: center;
+    font-family: "Unbounded", Sans-serif;
+    font-weight: 300;
+}
+
+.elementor-9 .elementor-element.elementor-element-e64e789 {
+    --display: grid;
+    --e-con-grid-template-columns: repeat(2, 1fr);
+    --e-con-grid-template-rows: repeat(2, 1fr);
+    --grid-auto-flow: row;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-e64e789.e-con {
+    --align-self: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-bd49bbc {
+    --display: flex;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 8px 8px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 8px;
+    --border-bottom-width: 8px;
+    --border-left-width: 0px;
+    border-color: var( --e-global-color-secondary);
+    --border-color: var( --e-global-color-secondary);
+    box-shadow: 0px 6px 0px 0px #000000;
+    --padding-top: 20px;
+    --padding-bottom: 20px;
+    --padding-left: 20px;
+    --padding-right: 20px;
+}
+
+.elementor-9 .elementor-element.elementor-element-bd49bbc:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-bd49bbc>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/11/BG.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-bd49bbc,
+.elementor-9 .elementor-element.elementor-element-bd49bbc::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-5b82635 .elementor-heading-title {
+    color: var( --e-global-color-secondary);
+    font-family: "Londrina Solid", Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.elementor-9 .elementor-element.elementor-element-da14d4a .elementor-heading-title {
+    color: var( --e-global-color-text);
+}
+
+.elementor-9 .elementor-element.elementor-element-0119e3d {
+    font-family: "Unbounded", Sans-serif;
+    font-weight: 300;
+}
+
+.elementor-9 .elementor-element.elementor-element-8391f1f {
+    --display: flex;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 8px 8px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 8px;
+    --border-bottom-width: 8px;
+    --border-left-width: 0px;
+    border-color: var( --e-global-color-secondary);
+    --border-color: var( --e-global-color-secondary);
+    box-shadow: 0px 6px 0px 0px #000000;
+    --padding-top: 20px;
+    --padding-bottom: 20px;
+    --padding-left: 20px;
+    --padding-right: 20px;
+}
+
+.elementor-9 .elementor-element.elementor-element-8391f1f:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-8391f1f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/11/BG.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-8391f1f,
+.elementor-9 .elementor-element.elementor-element-8391f1f::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-ff05cd3 .elementor-heading-title {
+    color: var( --e-global-color-secondary);
+    font-family: "Londrina Solid", Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.elementor-9 .elementor-element.elementor-element-ff42530 .elementor-heading-title {
+    color: var( --e-global-color-text);
+}
+
+.elementor-9 .elementor-element.elementor-element-5ee3d6b {
+    font-family: "Unbounded", Sans-serif;
+    font-weight: 300;
+}
+
+.elementor-9 .elementor-element.elementor-element-4fb19e8 {
+    --display: flex;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 8px 8px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 8px;
+    --border-bottom-width: 8px;
+    --border-left-width: 0px;
+    border-color: var( --e-global-color-secondary);
+    --border-color: var( --e-global-color-secondary);
+    box-shadow: 0px 6px 0px 0px #000000;
+    --padding-top: 20px;
+    --padding-bottom: 20px;
+    --padding-left: 20px;
+    --padding-right: 20px;
+}
+
+.elementor-9 .elementor-element.elementor-element-4fb19e8:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-4fb19e8>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/11/BG.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-4fb19e8,
+.elementor-9 .elementor-element.elementor-element-4fb19e8::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-43d1b2b .elementor-heading-title {
+    color: var( --e-global-color-secondary);
+    font-family: "Londrina Solid", Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.elementor-9 .elementor-element.elementor-element-2df1364 .elementor-heading-title {
+    color: var( --e-global-color-text);
+}
+
+.elementor-9 .elementor-element.elementor-element-c75b7b5 {
+    font-family: "Unbounded", Sans-serif;
+    font-weight: 300;
+}
+
+.elementor-9 .elementor-element.elementor-element-7f9b461 {
+    --display: flex;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 8px 8px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 8px;
+    --border-bottom-width: 8px;
+    --border-left-width: 0px;
+    border-color: var( --e-global-color-secondary);
+    --border-color: var( --e-global-color-secondary);
+    box-shadow: 0px 6px 0px 0px #000000;
+    --padding-top: 20px;
+    --padding-bottom: 20px;
+    --padding-left: 20px;
+    --padding-right: 20px;
+}
+
+.elementor-9 .elementor-element.elementor-element-7f9b461:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-7f9b461>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/11/BG.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-7f9b461,
+.elementor-9 .elementor-element.elementor-element-7f9b461::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-bb9f98e .elementor-heading-title {
+    color: var( --e-global-color-secondary);
+    font-family: "Londrina Solid", Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.elementor-9 .elementor-element.elementor-element-73f4456 .elementor-heading-title {
+    color: var( --e-global-color-text);
+}
+
+.elementor-9 .elementor-element.elementor-element-82e4c49 {
+    font-family: "Unbounded", Sans-serif;
+    font-weight: 300;
+}
+
+.elementor-9 .elementor-element.elementor-element-8cdca58 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --margin-top: 80px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+}
+
+.elementor-9 .elementor-element.elementor-element-02e3d9d {
+    width: var( --container-widget-width, 60%);
+    max-width: 60%;
+    --container-widget-width: 60%;
+    --container-widget-flex-grow: 0;
+    text-align: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-02e3d9d.elementor-element {
+    --align-self: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-02e3d9d .elementor-heading-title {
+    color: var( --e-global-color-secondary);
+    font-family: "Londrina Solid", Sans-serif;
+    font-size: 100px;
+    font-weight: 600;
+    line-height: 120px;
+}
+
+.elementor-9 .elementor-element.elementor-element-213f2c8 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-213f2c8.e-con {
+    --align-self: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-6df8d11.elementor-element {
+    --align-self: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-6df8d11 {
+    text-align: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-6df8d11 img {
+    width: 60%;
+}
+
+.elementor-9 .elementor-element.elementor-element-21e5154 {
+    width: auto;
+    max-width: auto;
+    bottom: 46%;
+    text-align: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-21e5154.elementor-element {
+    --align-self: flex-start;
+}
+
+body:not(.rtl) .elementor-9 .elementor-element.elementor-element-21e5154 {
+    left: -84px;
+}
+
+body.rtl .elementor-9 .elementor-element.elementor-element-21e5154 {
+    right: -84px;
+}
+
+.elementor-9 .elementor-element.elementor-element-21e5154 img {
+    width: 40%;
+}
+
+.elementor-9 .elementor-element.elementor-element-8b83b1b {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 80px;
+    --padding-bottom: 80px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-9 .elementor-element.elementor-element-35ddbbd {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-5931ca9 {
+    --display: flex;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 8px 8px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 8px;
+    --border-bottom-width: 8px;
+    --border-left-width: 0px;
+    border-color: var( --e-global-color-primary);
+    --border-color: var( --e-global-color-primary);
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+}
+
+.elementor-9 .elementor-element.elementor-element-5931ca9:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-5931ca9>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/11/BG-Black.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-5931ca9,
+.elementor-9 .elementor-element.elementor-element-5931ca9::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-65d999b {
+    text-align: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-65d999b .elementor-heading-title {
+    color: var( --e-global-color-text);
+}
+
+.elementor-9 .elementor-element.elementor-element-90fc2cb {
+    text-align: center;
+    font-family: "Unbounded", Sans-serif;
+    font-weight: 300;
+}
+
+.elementor-9 .elementor-element.elementor-element-c72cd5d img {
+    width: 15%;
+}
+
+.elementor-9 .elementor-element.elementor-element-c97d3f8 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-8f0d49e {
+    --display: flex;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 8px 8px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 8px;
+    --border-bottom-width: 8px;
+    --border-left-width: 0px;
+    border-color: var( --e-global-color-primary);
+    --border-color: var( --e-global-color-primary);
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+}
+
+.elementor-9 .elementor-element.elementor-element-8f0d49e:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-8f0d49e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/11/Golden-BG.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-8f0d49e,
+.elementor-9 .elementor-element.elementor-element-8f0d49e::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-313402e {
+    text-align: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-313402e .elementor-heading-title {
+    color: #1C1C1C;
+}
+
+.elementor-9 .elementor-element.elementor-element-b4f39c1 {
+    text-align: center;
+    color: #1C1C1C;
+    font-family: "Unbounded", Sans-serif;
+    font-weight: 300;
+}
+
+.elementor-9 .elementor-element.elementor-element-2ff2bd5 img {
+    width: 15%;
+}
+
+.elementor-9 .elementor-element.elementor-element-a709039 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-ae8f68a {
+    --display: flex;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 8px 8px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 8px;
+    --border-bottom-width: 8px;
+    --border-left-width: 0px;
+    border-color: var( --e-global-color-primary);
+    --border-color: var( --e-global-color-primary);
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+}
+
+.elementor-9 .elementor-element.elementor-element-ae8f68a:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-ae8f68a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/11/BG-Black.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-ae8f68a,
+.elementor-9 .elementor-element.elementor-element-ae8f68a::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-79addce {
+    text-align: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-79addce .elementor-heading-title {
+    color: var( --e-global-color-text);
+}
+
+.elementor-9 .elementor-element.elementor-element-e4d2f26 {
+    text-align: center;
+    font-family: "Unbounded", Sans-serif;
+    font-weight: 300;
+}
+
+.elementor-9 .elementor-element.elementor-element-d094e09 img {
+    width: 15%;
+}
+
+.elementor-9 .elementor-element.elementor-element-dbfad45 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-2c6658b {
+    --display: flex;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 8px 8px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 8px;
+    --border-bottom-width: 8px;
+    --border-left-width: 0px;
+    border-color: var( --e-global-color-primary);
+    --border-color: var( --e-global-color-primary);
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+}
+
+.elementor-9 .elementor-element.elementor-element-2c6658b:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-2c6658b>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/11/Golden-BG.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-2c6658b,
+.elementor-9 .elementor-element.elementor-element-2c6658b::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-d2ca604 {
+    text-align: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-d2ca604 .elementor-heading-title {
+    color: #1C1C1C;
+}
+
+.elementor-9 .elementor-element.elementor-element-4284877 {
+    text-align: center;
+    color: #1C1C1C;
+    font-family: "Unbounded", Sans-serif;
+    font-weight: 300;
+}
+
+.elementor-9 .elementor-element.elementor-element-05b6a92 img {
+    width: 15%;
+}
+
+.elementor-9 .elementor-element.elementor-element-3c77ffd {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-8edfe3b {
+    --display: flex;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 8px 8px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 8px;
+    --border-bottom-width: 8px;
+    --border-left-width: 0px;
+    border-color: var( --e-global-color-primary);
+    --border-color: var( --e-global-color-primary);
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+}
+
+.elementor-9 .elementor-element.elementor-element-8edfe3b:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-8edfe3b>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/11/BG-Black.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-8edfe3b,
+.elementor-9 .elementor-element.elementor-element-8edfe3b::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-bc679ca {
+    text-align: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-bc679ca .elementor-heading-title {
+    color: var( --e-global-color-text);
+}
+
+.elementor-9 .elementor-element.elementor-element-c6a08fe {
+    text-align: center;
+    font-family: "Unbounded", Sans-serif;
+    font-weight: 300;
+}
+
+.elementor-9 .elementor-element.elementor-element-ca236b6 img {
+    width: 15%;
+}
+
+.elementor-9 .elementor-element.elementor-element-1a790f0 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-2e52488 {
+    --display: flex;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 8px 8px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 8px;
+    --border-bottom-width: 8px;
+    --border-left-width: 0px;
+    border-color: var( --e-global-color-primary);
+    --border-color: var( --e-global-color-primary);
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+}
+
+.elementor-9 .elementor-element.elementor-element-2e52488:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-2e52488>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/11/Golden-BG.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-2e52488,
+.elementor-9 .elementor-element.elementor-element-2e52488::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-15ecdc4 {
+    text-align: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-15ecdc4 .elementor-heading-title {
+    color: #1C1C1C;
+}
+
+.elementor-9 .elementor-element.elementor-element-ace5672 {
+    text-align: center;
+    color: #1C1C1C;
+    font-family: "Unbounded", Sans-serif;
+    font-weight: 300;
+}
+
+.elementor-9 .elementor-element.elementor-element-8524547 img {
+    width: 15%;
+}
+
+.elementor-9 .elementor-element.elementor-element-e59e7dc {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-a651738 {
+    --display: flex;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 8px 8px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 8px;
+    --border-bottom-width: 8px;
+    --border-left-width: 0px;
+    border-color: var( --e-global-color-primary);
+    --border-color: var( --e-global-color-primary);
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+}
+
+.elementor-9 .elementor-element.elementor-element-a651738:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-a651738>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/11/BG-Black.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-a651738,
+.elementor-9 .elementor-element.elementor-element-a651738::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-7ebcb47 {
+    text-align: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-7ebcb47 .elementor-heading-title {
+    color: var( --e-global-color-text);
+}
+
+.elementor-9 .elementor-element.elementor-element-dda46a0 {
+    text-align: center;
+    font-family: "Unbounded", Sans-serif;
+    font-weight: 300;
+}
+
+.elementor-9 .elementor-element.elementor-element-ba85ea3 img {
+    width: 15%;
+}
+
+.elementor-9 .elementor-element.elementor-element-e9e01f3 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-18ff747 {
+    --display: flex;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 8px 8px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 8px;
+    --border-bottom-width: 8px;
+    --border-left-width: 0px;
+    border-color: var( --e-global-color-primary);
+    --border-color: var( --e-global-color-primary);
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+}
+
+.elementor-9 .elementor-element.elementor-element-18ff747:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-18ff747>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/11/Golden-BG.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-18ff747,
+.elementor-9 .elementor-element.elementor-element-18ff747::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-021d39e {
+    text-align: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-021d39e .elementor-heading-title {
+    color: #1C1C1C;
+}
+
+.elementor-9 .elementor-element.elementor-element-3838844 {
+    text-align: center;
+    color: #1C1C1C;
+    font-family: "Unbounded", Sans-serif;
+    font-weight: 300;
+}
+
+.elementor-9 .elementor-element.elementor-element-8ea9316 img {
+    width: 15%;
+}
+
+.elementor-9 .elementor-element.elementor-element-9f26f9a {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-d7f0031 {
+    --display: flex;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 8px 8px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 8px;
+    --border-bottom-width: 8px;
+    --border-left-width: 0px;
+    border-color: var( --e-global-color-primary);
+    --border-color: var( --e-global-color-primary);
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+}
+
+.elementor-9 .elementor-element.elementor-element-d7f0031:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-d7f0031>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/11/BG-Black.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-d7f0031,
+.elementor-9 .elementor-element.elementor-element-d7f0031::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-de7edf2 {
+    text-align: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-de7edf2 .elementor-heading-title {
+    color: var( --e-global-color-text);
+}
+
+.elementor-9 .elementor-element.elementor-element-09b2e80 {
+    text-align: center;
+    font-family: "Unbounded", Sans-serif;
+    font-weight: 300;
+}
+
+.elementor-9 .elementor-element.elementor-element-9966029 img {
+    width: 15%;
+}
+
+.elementor-9 .elementor-element.elementor-element-00d09a4 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-e54bc6b {
+    --display: flex;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 8px 8px 0px;
+    --border-top-width: 0px;
+    --border-right-width: 8px;
+    --border-bottom-width: 8px;
+    --border-left-width: 0px;
+    border-color: var( --e-global-color-primary);
+    --border-color: var( --e-global-color-primary);
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+}
+
+.elementor-9 .elementor-element.elementor-element-e54bc6b:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-e54bc6b>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/11/Golden-BG.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-e54bc6b,
+.elementor-9 .elementor-element.elementor-element-e54bc6b::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-72d85d2 {
+    text-align: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-72d85d2 .elementor-heading-title {
+    color: #1C1C1C;
+}
+
+.elementor-9 .elementor-element.elementor-element-8908403 {
+    text-align: center;
+    color: #1C1C1C;
+    font-family: "Unbounded", Sans-serif;
+    font-weight: 300;
+}
+
+.elementor-9 .elementor-element.elementor-element-0388bdf img {
+    width: 15%;
+}
+
+.elementor-9 .elementor-element.elementor-element-020531e {
+    --display: flex;
+    --min-height: 520px;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --gap: 0px 0px;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-020531e:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-020531e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background: url("https://piggiecoin.com/wp-content/uploads/2024/11/Final_dance_1.gif") 50% 50%;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-020531e,
+.elementor-9 .elementor-element.elementor-element-020531e::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-5ea43f7 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-a76253f {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --align-items: flex-end;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-a76253f.e-con {
+    --order: 99999/* order end hack */
+    ;
+}
+
+.elementor-9 .elementor-element.elementor-element-1e91f6a {
+    text-align: right;
+}
+
+.elementor-9 .elementor-element.elementor-element-1e91f6a img {
+    width: 12%;
+}
+
+.elementor-9 .elementor-element.elementor-element-3848623 {
+    text-align: right;
+}
+
+.elementor-9 .elementor-element.elementor-element-3848623 .elementor-heading-title {
+    color: var( --e-global-color-text);
+    font-family: "Londrina Solid", Sans-serif;
+    font-size: 80px;
+    font-weight: 600;
+    line-height: 84px;
+}
+
+.elementor-widget-button .elementor-button {
+    background-color: var( --e-global-color-accent);
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-accent-font-weight);
+}
+
+.elementor-widget-button .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-container {
+    background-color: var( --e-global-color-primary);
+}
+
+.elementor-widget-button .premium-global-cursor- {
+        {
+        ID
+    }
+}
+
+    {
+    color: var( --e-global-color-primary);
+    fill: var( --e-global-color-primary);
+}
+
+.elementor-widget-button.premium-cursor-ftext .premium-global-cursor- {
+        {
+        ID
+    }
+}
+
+.premium-cursor-follow-text {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight);
+}
+
+.elementor-widget-button .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-text {
+    color: var( --e-global-color-secondary);
+}
+
+.elementor-widget-button .premium-global-badge- {
+        {
+        ID
+    }
+}
+
+.premium-badge-icon {
+    color: var( --e-global-color-secondary);
+    fill: var( --e-global-color-secondary);
+}
+
+.elementor-9 .elementor-element.elementor-element-7594ccb .elementor-button {
+    background-color: var( --e-global-color-accent);
+    font-family: "Londrina Solid", Sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    fill: #1C1C1C;
+    color: #1C1C1C;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #1C1C1C;
+    border-radius: 0px 0px 0px 0px;
+    box-shadow: 0px 2px 0px 0px #000000;
+    padding: 20px 60px 20px 60px;
+}
+
+.elementor-9 .elementor-element.elementor-element-f788cc3 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.84;
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+}
+
+.elementor-9 .elementor-element.elementor-element-f788cc3:not(.elementor-motion-effects-element-type-background),
+.elementor-9 .elementor-element.elementor-element-f788cc3>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://piggiecoin.com/wp-content/uploads/2024/11/BG-Black.png");
+    background-position: center center;
+    background-size: cover;
+}
+
+.elementor-9 .elementor-element.elementor-element-f788cc3::before,
+.elementor-9 .elementor-element.elementor-element-f788cc3>.elementor-background-video-container::before,
+.elementor-9 .elementor-element.elementor-element-f788cc3>.e-con-inner>.elementor-background-video-container::before,
+.elementor-9 .elementor-element.elementor-element-f788cc3>.elementor-background-slideshow::before,
+.elementor-9 .elementor-element.elementor-element-f788cc3>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-9 .elementor-element.elementor-element-f788cc3>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    background-color: #1C1C1C;
+    --background-overlay: '';
+}
+
+.elementor-9 .elementor-element.elementor-element-f788cc3,
+.elementor-9 .elementor-element.elementor-element-f788cc3::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-0a2ba01 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-f12963c {
+    text-align: left;
+}
+
+.elementor-9 .elementor-element.elementor-element-f12963c .elementor-heading-title {
+    color: var( --e-global-color-text);
+    font-family: "Londrina Solid", Sans-serif;
+    font-size: 80px;
+    font-weight: 600;
+    line-height: 84px;
+}
+
+.elementor-9 .elementor-element.elementor-element-d7e4a22 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-c73b67e .elementor-button {
+    background-color: var( --e-global-color-accent);
+    font-family: "Londrina Solid", Sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    fill: #1C1C1C;
+    color: #1C1C1C;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #1C1C1C;
+    border-radius: 0px 0px 0px 0px;
+    box-shadow: 0px 2px 0px 0px #000000;
+    padding: 12px 40px 12px 40px;
+}
+
+.elementor-9 .elementor-element.elementor-element-caec43c .elementor-button {
+    background-color: var( --e-global-color-accent);
+    font-family: "Londrina Solid", Sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    fill: #1C1C1C;
+    color: #1C1C1C;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #1C1C1C;
+    border-radius: 0px 0px 0px 0px;
+    box-shadow: 0px 2px 0px 0px #000000;
+    padding: 12px 40px 12px 40px;
+}
+
+.elementor-9 .elementor-element.elementor-element-70af7f5 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+@media(min-width:768px) {
+    .elementor-9 .elementor-element.elementor-element-5002cdf {
+        --width: 50%;
+    }
+    .elementor-9 .elementor-element.elementor-element-9c24831 {
+        --width: 48%;
+    }
+    .elementor-9 .elementor-element.elementor-element-4be36e3 {
+        --width: 84.565%;
+    }
+    .elementor-9 .elementor-element.elementor-element-c7e72f1 {
+        --content-width: 920px;
+    }
+    .elementor-9 .elementor-element.elementor-element-e64e789 {
+        --width: 88%;
+    }
+    .elementor-9 .elementor-element.elementor-element-213f2c8 {
+        --width: 80%;
+    }
+    .elementor-9 .elementor-element.elementor-element-8b83b1b {
+        --content-width: 920px;
+    }
+    .elementor-9 .elementor-element.elementor-element-5ea43f7 {
+        --width: 50%;
+    }
+    .elementor-9 .elementor-element.elementor-element-a76253f {
+        --width: 50%;
+    }
+    .elementor-9 .elementor-element.elementor-element-0a2ba01 {
+        --width: 50%;
+    }
+    .elementor-9 .elementor-element.elementor-element-70af7f5 {
+        --width: 50%;
+    }
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-9 .elementor-element.elementor-element-5002cdf {
+        --width: 174.922px;
+    }
+}
+
+@media(min-width:1025px) {
+    .elementor-9 .elementor-element.elementor-element-378f2a6:not(.elementor-motion-effects-element-type-background),
+    .elementor-9 .elementor-element.elementor-element-378f2a6>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-attachment: scroll;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-9 .elementor-element.elementor-element-433b61d img {
+        width: 40%;
+    }
+    .elementor-9 .elementor-element.elementor-element-da430a5.elementor-element {
+        --align-self: center;
+    }
+    .elementor-9 .elementor-element.elementor-element-da430a5 .elementor-nav-menu .elementor-item {
+        font-size: 18px;
+    }
+    .elementor-9 .elementor-element.elementor-element-f34dc6e .elementor-heading-title {
+        font-size: 60px;
+    }
+    .elementor-9 .elementor-element.elementor-element-01e3ab2 .elementor-heading-title {
+        font-size: 60px;
+        line-height: 1.2em;
+    }
+    .elementor-9 .elementor-element.elementor-element-e64e789 {
+        --grid-auto-flow: row;
+    }
+    .elementor-9 .elementor-element.elementor-element-02e3d9d .elementor-heading-title {
+        font-size: 60px;
+        line-height: 1.2em;
+    }
+    .elementor-9 .elementor-element.elementor-element-6df8d11 img {
+        width: 80%;
+    }
+    body:not(.rtl) .elementor-9 .elementor-element.elementor-element-21e5154 {
+        left: -32%;
+    }
+    body.rtl .elementor-9 .elementor-element.elementor-element-21e5154 {
+        right: -32%;
+    }
+    .elementor-9 .elementor-element.elementor-element-21e5154 {
+        bottom: 40%;
+    }
+    .elementor-9 .elementor-element.elementor-element-8b83b1b {
+        --padding-top: 40px;
+        --padding-bottom: 40px;
+        --padding-left: 40px;
+        --padding-right: 40px;
+    }
+    .elementor-9 .elementor-element.elementor-element-d7e4a22 {
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-9 .elementor-element.elementor-element-a20b8e4:not(.elementor-motion-effects-element-type-background),
+    .elementor-9 .elementor-element.elementor-element-a20b8e4>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-image: url("https://piggiecoin.com/wp-content/uploads/2024/12/Piglet-1-1.png");
+    }
+    .elementor-9 .elementor-element.elementor-element-a20b8e4 {
+        --min-height: 32vh;
+    }
+    .elementor-9 .elementor-element.elementor-element-a0daa23 {
+        --width: 100%;
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+    .elementor-9 .elementor-element.elementor-element-5002cdf {
+        --width: 40%;
+    }
+    .elementor-9 .elementor-element.elementor-element-433b61d img {
+        width: 50%;
+    }
+    .elementor-9 .elementor-element.elementor-element-9c24831 {
+        --width: 53%;
+        --flex-direction: row;
+        --container-widget-width: initial;
+        --container-widget-height: 100%;
+        --container-widget-flex-grow: 1;
+        --container-widget-align-self: stretch;
+        --flex-wrap-mobile: wrap;
+    }
+    .elementor-9 .elementor-element.elementor-element-da430a5>.elementor-widget-container {
+        padding: 0px 0px 0px 0px;
+    }
+    .elementor-9 .elementor-element.elementor-element-378f2a6:not(.elementor-motion-effects-element-type-background),
+    .elementor-9 .elementor-element.elementor-element-378f2a6>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-image: url("https://piggiecoin.com/wp-content/uploads/2024/12/Chain-3.png");
+    }
+    .elementor-9 .elementor-element.elementor-element-378f2a6 {
+        --min-height: 6vh;
+    }
+    .elementor-9 .elementor-element.elementor-element-4be36e3 {
+        --padding-top: 120px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-9 .elementor-element.elementor-element-3d3ecc8>.elementor-widget-container {
+        margin: -60px 0px 0px 0px;
+    }
+    .elementor-9 .elementor-element.elementor-element-3d3ecc8 img {
+        width: 100%;
+    }
+    .elementor-9 .elementor-element.elementor-element-f34dc6e {
+        --container-widget-width: 100%;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 100%);
+        max-width: 100%;
+    }
+    .elementor-9 .elementor-element.elementor-element-f34dc6e .elementor-heading-title {
+        line-height: 1.2em;
+    }
+    .elementor-9 .elementor-element.elementor-element-c50f6ba img {
+        width: 36%;
+    }
+    .elementor-9 .elementor-element.elementor-element-1dc5c03 {
+        --container-widget-width: 100%;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 100%);
+        max-width: 100%;
+        line-height: 1.6em;
+    }
+    .elementor-9 .elementor-element.elementor-element-0349591 img {
+        width: 60%;
+    }
+    .elementor-9 .elementor-element.elementor-element-01e3ab2 {
+        --container-widget-width: 100%;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 100%);
+        max-width: 100%;
+    }
+    .elementor-9 .elementor-element.elementor-element-01e3ab2 .elementor-heading-title {
+        font-size: 60px;
+        line-height: 1.2em;
+    }
+    .elementor-9 .elementor-element.elementor-element-e64e789 {
+        --e-con-grid-template-columns: repeat(1, 1fr);
+        --gap: 40px 40px;
+        --grid-auto-flow: row;
+    }
+    .elementor-9 .elementor-element.elementor-element-02e3d9d {
+        --container-widget-width: 100%;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 100%);
+        max-width: 100%;
+    }
+    .elementor-9 .elementor-element.elementor-element-02e3d9d .elementor-heading-title {
+        font-size: 52px;
+    }
+    .elementor-9 .elementor-element.elementor-element-6df8d11 img {
+        width: 80%;
+    }
+    .elementor-9 .elementor-element.elementor-element-21e5154 img {
+        width: 32%;
+    }
+    .elementor-9 .elementor-element.elementor-element-8b83b1b {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-9 .elementor-element.elementor-element-5931ca9 {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-9 .elementor-element.elementor-element-8f0d49e {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-9 .elementor-element.elementor-element-ae8f68a {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-9 .elementor-element.elementor-element-2c6658b {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-9 .elementor-element.elementor-element-8edfe3b {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-9 .elementor-element.elementor-element-2e52488 {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-9 .elementor-element.elementor-element-a651738 {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-9 .elementor-element.elementor-element-18ff747 {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-9 .elementor-element.elementor-element-d7f0031 {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-9 .elementor-element.elementor-element-e54bc6b {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-9 .elementor-element.elementor-element-020531e {
+        --min-height: 320px;
+    }
+    .elementor-9 .elementor-element.elementor-element-3848623 .elementor-heading-title {
+        font-size: 60px;
+    }
+    .elementor-9 .elementor-element.elementor-element-7594ccb .elementor-button {
+        padding: 16px 40px 16px 40px;
+    }
+    .elementor-9 .elementor-element.elementor-element-f788cc3 {
+        --padding-top: 40px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-9 .elementor-element.elementor-element-f12963c {
+        text-align: center;
+    }
+    .elementor-9 .elementor-element.elementor-element-f12963c .elementor-heading-title {
+        font-size: 32px;
+        line-height: 1em;
+    }
+    .elementor-9 .elementor-element.elementor-element-d7e4a22 {
+        --justify-content: center;
+        --align-items: center;
+        --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    }
+    .elementor-9 .elementor-element.elementor-element-c73b67e .elementor-button {
+        font-size: 16px;
+    }
+    .elementor-9 .elementor-element.elementor-element-caec43c .elementor-button {
+        font-size: 16px;
+    }
+    .elementor-9 .elementor-element.elementor-element-fcd780a img {
+        width: 100%;
+        max-width: 100%;
+    }
+}

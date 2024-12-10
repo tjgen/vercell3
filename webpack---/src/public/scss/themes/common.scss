@@ -1,0 +1,44 @@
+/* common css for all theme */
+
+// zakra, rife_free, generatepress , responsive
+.product-modal-wrap.zakra, .rife_free, .generatepress, .sydney, .responsive, .kadence, .neve, .shoppingcart, .estore  {
+    &.position_top {
+      .woocommerce-product-gallery__trigger {
+        margin-top:40px;
+      }
+    }
+  
+    &.position_top .modelViewerBlock {
+      margin-bottom: 10px;
+    }
+    &.position_bottom .modelViewerBlock {
+      margin-top: 10px;
+    }
+}
+  
+@media only screen and (max-width: 768px) {
+.product-modal-wrap:has(+.summary) {
+    &.responsive, &.shoppingcart {
+       width: 100%;
+   }
+}
+}
+ 
+
+@media only screen and (min-width: 769px){
+}
+
+.product-modal-wrap {
+  &.kadence, &.neve, &.shoppingcart, &.estore   {
+    margin-bottom: 25px;
+  }
+}
+
+
+.product-modal-wrap.model-full-width {
+  width: 100%;
+  &.divi {
+    width: 50%;
+  }
+}
+
